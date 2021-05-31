@@ -1,0 +1,125 @@
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    .content-box .box-header {width: 50%;}
+    .content-box .box-header h2{font-size: 25px;}
+    .serv {margin-bottom: 25px !important;}
+    .intro {
+        height: 40vh;
+    }
+    .intro .left {
+        padding: 1rem 1rem 1rem 3rem;
+      }
+      .intro .slider {
+        height: 100%;
+      }
+    
+      .blog-card {
+          width: 90%;
+      }
+
+    .card1{
+        padding: 0px 0px 0px 0px;
+    }
+    .card{
+        padding: 0px 0px 0px 0px;
+    }
+    
+    .detalle_ser button{
+        width: 70%;
+      }
+
+      .procesos{
+        padding: 15px 15px;
+      }
+	
+}
+
+@media only screen and (max-width: 767px) {
+    .horario{
+        margin-top: 30px !important;
+    }
+    a.button{padding: 5px 5px;margin-top: 20px;}
+
+/* .owl-carousel .owl-buttons div i {font-size: 20px;margin: -20px 0 0;} */
+.header-text {top: 10%;left: 10%;padding: 10px;}
+.header-text h1{font-size: 20px;}
+.header-text p{font-size: 14px;}
+.header-text .btn-primary{padding: 0px 0px;margin-right: 0px;border-radius: 0;font-size: 14px;}
+.content-box .box-header2 h2{
+    font-size: 15px;
+}
+.content-box .box-header {width: 80%;}
+.content-box .box-header h2{font-size: 18px;}
+.serv {margin-bottom: 20px !important;}
+
+.intro .left {
+    width: 100%;
+    height: 30%;
+    padding: 1rem 1rem 1rem 2rem;
+  }
+  .intro .slider {
+    width: 100%;
+    height: 70%;
+  }
+.card1{
+    padding: 5px;
+}
+.card{
+    padding: 5px;
+}
+.cont-detail{
+    border-left: none;
+    border-top: 8px solid #13bf71;
+}
+.detalle_ser button{
+    width: 70%;
+  }
+
+  .owl-carousel{
+
+    height: 200px !important;
+  }
+  .item-img{
+    height: 200px;
+  }
+  
+
+}
+@media (min-width: 640px) {
+    .blog-card {
+      flex-direction: row;
+      max-width: 100%;
+    }
+    .blog-card .meta {
+      flex-basis: 40%;
+      height: auto;
+    }
+    .blog-card .description {
+      flex-basis: 60%;
+    }
+    .blog-card .description:before {
+      transform: skewX(-3deg);
+      content: "";
+      background: #fff;
+      width: 30px;
+      position: absolute;
+      left: -10px;
+      top: 0;
+      bottom: 0;
+      z-index: -1;
+    }
+    .blog-card.alt {
+      flex-direction: row-reverse;
+    }
+    .blog-card.alt .description:before {
+      left: inherit;
+      right: -10px;
+      transform: skew(3deg);
+    }
+    .blog-card.alt .details {
+      padding-left: 25px;
+    }
+  }
