@@ -3,7 +3,7 @@ require_once "./config/config.php";
 $inicio="";
 $informatica="";
 $impresiones="active";
-$moviles="";
+$m&oacute;viles="";
 $galeria="";
 $nosotros="";
 $contacto="";
@@ -31,8 +31,8 @@ $contacto="";
 					<!-- Static Header -->
 					<div class="header-text hidden-xs">
 						<div class="col-md-12 text-left">
-							<h1>INPRESION 3D</h1>
-							<p>Tecnologia y calidad</p>
+							<h1>Impresi&oacute;n 3D</h1>
+							<p>Tecnolog&iacute;a y calidad</p>
 							<a class="button" href="single.html">Leer M</a>
 						</div>
 					</div><!-- /header-text -->
@@ -42,7 +42,7 @@ $contacto="";
 					<!-- Static Header -->
 					<div class="header-text hidden-xs">
 						<div class="col-md-12 text-left">
-							<h1>DIGITALIZACION 3D</h1>
+							<h1>DIGITALIZACI&oacute;N 3D</h1>
 							<p>A medida</p>
 							<a class="button" href="single.html">LEER</a>
 						</div>
@@ -54,7 +54,7 @@ $contacto="";
 					<div class="header-text hidden-xs">
 						<div class="col-md-12 text-left">
 							<h1>DISEÑO 3D</h1>
-							<p>Sofisticacdo</p>
+							<p>Sofisticado</p>
 							<a class="button" href="single.html">Read More</a>
 						</div>
 					</div><!-- /header-text -->

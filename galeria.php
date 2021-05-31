@@ -97,8 +97,7 @@ $contacto="";
 									</article>
 								</div>
 							</div>
-						</div>
-						<div class="row">
+						
 							<div class="col-1-3">
 								<div class="wrap-col">
 									<article>
@@ -153,8 +152,7 @@ $contacto="";
 									</article>
 								</div>
 							</div>
-						</div>
-						<div class="row">
+						
 							<div class="col-1-3">
 								<div class="wrap-col">
 									<article>

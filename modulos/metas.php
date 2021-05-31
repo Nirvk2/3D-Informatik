@@ -1,4 +1,4 @@
-<!-- Necesidades básicas de la página
+<!-- Necesidades b&aacute;sicas de la p&aacute;gina
   ================================================== -->
   <meta charset="utf-8">
 	<meta name="description" content="3D Informatik - Impresiones">
@@ -10,12 +10,12 @@
     
     <!-- CSS
 	================================================== -->
-  	<link rel="stylesheet" href="css/zerogrid.css">
+  	<link rel="stylesheet" href="css/zerogrid.css?ver=<?php echo rand(111,999)?>">
 	  <link rel="stylesheet" href="css/font.css">
-	  <link rel="stylesheet" href="css/menu.css">
-	<link rel="stylesheet" href="css/main.css">
-	<link rel="stylesheet" href="css/tred.css">
-	<link rel="stylesheet" href="css/responsive.css">
+	  <link rel="stylesheet" href="css/menu.css?ver=<?php echo rand(111,999)?>">
+	<link rel="stylesheet" href="css/main.css?ver=<?php echo rand(111,999)?>">
+	<link rel="stylesheet" href="css/tred.css?ver=<?php echo rand(111,999)?>">
+	<link rel="stylesheet" href="css/responsive.css?ver=<?php echo rand(111,999)?>">
 	
 	<!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">

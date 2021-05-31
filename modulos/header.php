@@ -5,9 +5,9 @@
 			<div id="cssmenu" class="align-center">
 				<ul>
 					<li class="<?php echo $inicio;?>"><a href="index.php"><span>Inicio</span></a></li>
-					<li class="<?php echo $informatica;?>"><a href="informatica.php"><span>Informática</span></a></li>
+					<li class="<?php echo $informatica;?>"><a href="informatica.php"><span>Inform&aacute;tica</span></a></li>
 					<li class="<?php echo $impresiones;?>"><a href="impresiones.php"><span>Impresiones 3D</span></a></li>
-					<li class="<?php echo $moviles;?>"><a href="movil.php"><span>Móviles</span></a></li>
+					<li class="<?php echo $m&oacute;viles;?>"><a href="movil.php"><span>M&oacute;viles</span></a></li>
 					<li class="<?php echo $galeria;?>"><a href="galeria.php"><span>Galeria</span></a>
 						
 					</li>

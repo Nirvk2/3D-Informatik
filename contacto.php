@@ -85,9 +85,9 @@ $contacto="active";
 							<div class="col-1-2">
 								<div class="horario">
 									<h4>Detalles de contacto</h4>
-									<p><i class="fa fa-map-marker"></i><span> Calle Guzmán el Bueno 89, local 1, 28015 Madrid</span></p>
+									<p><i class="fa fa-map-marker"></i><span> Calle Guzm&aacute;n el Bueno 89, local 1, 28015 Madrid</span></p>
 									<br>
-									<p><i class="fa fa-clock-o"> </i><span> Horario de atención</span></p>
+									<p><i class="fa fa-clock-o"> </i><span> Horario de atenci&oacute;n</span></p>
 									<p class="manana">Lunes a Viernes: 10:00 - 14:00</p>
 									<p class="tarde">16:30 - 20:30</p>
 									<p class="manana">Sabados: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 10:00 - 15:00</p>

@@ -13,7 +13,7 @@ $contacto="";
 <!DOCTYPE html>
 <html lang="es"> 
 <head>
-  <title>3D Informatic - Servicios Informaticos</title>
+  <title>3D Informatic - Servicios inform&aacute;ticos</title>
 
         <?php
          require_once "./modulos/metas.php";
@@ -32,7 +32,7 @@ $contacto="";
 					<!-- Static Header -->
 					<div class="header-text hidden-xs">
 						<div class="col-md-12 text-left">
-							<h1>INPRESION 3D</h1>
+							<h1>Impresi&oacute;n 3D</h1>
 							<p>Tecnologia y calidad</p>
 							<a class="button" href="single.html">Leer M</a>
 						</div>
@@ -69,10 +69,10 @@ $contacto="";
                 <section class="intro">
                     <div class="left">
                         <div>
-                        <span>Servicios</span>
-                        <h1>Nuestro Servicio Informatico</h1>
-                        <p>3D-InformatiK es tu centro de reparaciones especializadas para tu Ordenador. Nuestros técnicos son especializados, cualificados para reparar, asesorar y diagnosticar cualquier falla en los componentes de su equipo.</p>
-                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                        
+                        <h1>Nuestro Servicio inform&aacute;tico</h1>
+                        <p>3D-InformatiK es tu centro de reparaciones especializadas para tu Ordenador. Nuestros t&eacute;cnicos son especializados, cualificados para reparar, asesorar y diagnosticar cualquier falla en los componentes de su equipo.</p>
+                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                         </div>
                     </div>
 
@@ -80,7 +80,7 @@ $contacto="";
                         <ul>
                         <li style="background-image:url(./img/servicios/configuracion.png)">
                             <div class="center-y">
-                            <h3>Configuración de Ordenadores</h3>
+                            <h3>Configuraci&oacute;n de Ordenadores</h3>
                             <a href="#configuracion">ver mas</a>	
                             </div>
                         </li>
@@ -126,32 +126,28 @@ $contacto="";
 								<div class="card1 col-1-1" id="configuracion">
                                     <div class="row detalle_ser">
                                         <div class="col-1-2">
-                                            <img class="img-detall" src="./img/servicios/configuracion.png" alt="">
+                                            <img class="img-detallIn" src="./img/servicios/pc 3d.jpg" alt="">
                                         </div>
                                         <div class="col-1-2 fond1">
                                             <div class="ser_width2 cont-detail">
-                                                <h2>Configuración de ordenadores</h2>
+                                                <h2>Tu ordenador a medida</h2>
                                                 <hr/>
                                                 <p>
-                                                Configuramos tu ordenador según vuestras necesidades, para Gaming, Oficina o equipos de alto rendimiento para diseñadores.
-                                                    </p>
+                                                
+                                                </p>
                                                 <div class="cont_ser">
-                                                    <h5>Presupuesto rápido</h5>
+                                                    <h5>Configuramos su ordenador Seg&uacute;n vuestras necesidades.</h5>
                                                     <p>
-                                                    Envía la cantidad de equipos a configurar y obtendra una documentacion detallada del presupuesto. 
-                                                    </p>
-                                                    <h5>¿Qué incluye?</h5>
-                                                    <p>
-                                                    Formateo e Instalación de Sistema Operativo,
-                                                    Antivirus,
-                                                    Paquetería de ofimática,
-                                                    Paquetería complementaria para el buen funcionamiento,
-                                                    Limpieza exterior del equipo,
-                                                    Optimización de hardware y Sistema,
+                                                    <i class="fa fa-angle-double-right"></i> Gaming <br>
+                                                    <i class="fa fa-angle-double-right"></i> Diseño Grafico<br>
+                                                    <i class="fa fa-angle-double-right"></i> Ingenier&iacute;a<br>
+                                                    <i class="fa fa-angle-double-right"></i> Arquitectura<br>
+                                                    <i class="fa fa-angle-double-right"></i> Oficina<br>
+                                                    <i class="fa fa-angle-double-right"></i> Teletrabajo<br>
                                                     </p>
                                                 </div>
                                                 
-                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                             </div>
                                         </div>
                                     </div>   
@@ -159,34 +155,28 @@ $contacto="";
                                 <div class="card col-1-1" id="mantenimiento">
                                     <div class="row detalle_ser">
                                         <div class="col-1-2 f-right">
-                                            <img class="img-detall" src="./img/servicios/mantenimiento.png" alt="">
+                                            <img class="img-detallIn" src="./img/servicios/mac 3d.jpg" alt="">
                                         </div>
                                         <div class="col-1-2 fond1">
                                             <div class="ser_width2 cont-detail">
                                                 <h2>Mantenimiento de ordenadores</h2>
                                                 <hr/>
                                                 <p>
-                                                En 3D INFORMATIK es la mejor solución en servicios tecnológicos en Chamberí, Madrid, España, todos nuestros técnicos son especializados en las principales marcas del mercado
+                                                
                                                 </p>
                                                 <div class="cont_ser">
-                                                    <h5>Presupuesto rápido</h5>
+                                                    <h5>Servicios</h5>
                                                     <p>
-                                                    Envía la cantidad de equipos a realizar el mantenimiento y obtendra una cotizacion detallada por cada equipo.
-                                                    </p>
-                                                    <h5>¿Qué incluye?</h5>
-                                                    <p>
-                                                    Aplicación de líquido protector de circuidos electrónicos
-                                                    Aplicación de pasta térmica en procesador
-                                                    Diagnóstico de fallas
-                                                    Limpieza exterior de PC o Laptop, teclado, monitor y mouse.
-                                                    Limpieza Interior del Equipo (Gabinete o Laptop).
-                                                    Verificación correcta de temperatura en procesador
-                                                    Verificación del funcionamiento de ventiladores
+                                                    <i class="fa fa-angle-double-right"></i> Consultor&iacute;a Tecnol&oacute;gica.<br>
+                                                    <i class="fa fa-angle-double-right"></i> Ordenadores a Medida.<br>
+                                                    <i class="fa fa-angle-double-right"></i> Servicio T&eacute;cnico Multi Marca.<br>
+                                                    <i class="fa fa-angle-double-right"></i> Instalaci&oacute;n de Redes de datos.<br>
+                                                    <i class="fa fa-angle-double-right"></i> Limpieza y Mantenimiento de equipos.
                                                     </p>
 
                                                 </div>
 
-                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                             </div>
                                         </div>
                                         
@@ -196,7 +186,7 @@ $contacto="";
                                 <div class="card1 col-1-1" id="asesoria">
                                     <div class="row detalle_ser">
                                         <div class="col-1-2">
-                                            <img class="img-detall" src="./img/servicios/asesoria.png" alt="">
+                                            <img class="img-detallIn" src="./img/servicios/asesoria.png" alt="">
                                         </div>
                                         <div class="col-1-2 fond1">
                                             <div class="ser_width2 cont-detail">
@@ -204,18 +194,18 @@ $contacto="";
                                                 <hr/>
                                                 
                                                 <p>
-                                                En 3D INFORMATIK te ayudamos a decidir que equipo adquirir segun sus nececidades para estudiantes,la oficina, etc.
+                                                3D INFORMATIK te ayudamos a decidir que equipo adquirir segun sus nececidades para estudiantes,la oficina, etc.
                                                 </p>
                                                 <div class="cont_ser">
-                                                    <h5>Presupuesto rápido</h5>
+                                                    <h5>Presupuesto r&aacute;pido</h5>
                                                     <p>
-                                                    Envía para que fines quiere adquirir un equipo y le asesoraremos de manera personalizada.
+                                                    Env&iacute;a para que fines quiere adquirir un equipo y le asesoraremos de manera personalizada.
                                                     </p>
-                                                    <h5>Asesoría personalizada</h5>
+                                                    <h5>Asesor&iacute;a personalizada</h5>
                                                     
 
                                                 </div>
-                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                             </div>
                                         </div>
                                     </div>       

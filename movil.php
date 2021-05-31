@@ -13,7 +13,7 @@ $contacto="";
 <!DOCTYPE html>
 <html lang="es"> 
 <head>
-  <title>3D Informatic - Servicios Moviles</title>
+  <title>3D Informatic - Servicios m&oacute;viles</title>
 
         <?php
          require_once "./modulos/metas.php";
@@ -33,43 +33,20 @@ $contacto="";
                 <section class="intro">
                     <div class="left">
                         <div>
-                        <span>Servicios</span>
-                        <h1>Nuestros Servicios Moviles</h1>
-                        <p>Reparamos tu móvil hoy mismo, sin cita previa, con Garantía.
-Somos muy conscientes de la importancia que tiene el estar conectado al mundo. Por eso ofrecemos un servicio de diagnóstico y de reparación exprés. 
+                       
+                        <h1>Nuestros Servicios m&oacute;viles</h1>
+                        <p>Reparamos tu m&oacute;vil hoy mismo, sin cita previa, con Garant&iacute;a.
+Somos muy conscientes de la importancia que tiene el estar conectado al mundo. Por eso ofrecemos un servicio de diagn&oacute;stico y de reparaci&oacute;n expr&eacute;s. 
 </p>
-<a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+<a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                         </div>
                     </div>
 
                     <div class="slider">
                         <ul>
-                        <li style="background-image:url(./img/servicios/pantallas-rota.png)">
-                            <div class="center-y">
-                            <h3>Aplicación de protectores de pantalla</h3>
-                            <a href="#pantallas">ver mas</a>	
-                            </div>
+                        <li style="background-image:url(./img/servicios/movil-3d.jpg)">
                         </li>
-                        <li style="background-image:url(./img/servicios/camaras.png)">
-                            <div class="center-y">
-                            <h3>Reparación Smartphone y Tablet</h3>
-                            <a href="#camaras">Ver mas</a>	
-                            </div>
-                        </li>
-                        <li style="background-image:url(./img/servicios/baterias.png)">
-                            <div class="center-y">
-                            <h3>Micro soldadura, cambio de componentes</h3>
-                            <a href="#baterias">Ver mas</a>	
-                            </div>
-                        </li>
-                        </ul>
-
-                        <ul>
-                        <nav>
-                            <a href="#"></a>
-                            <a href="#"></a>
-                            <a href="#"></a>
-                        </nav>
+                        
                         </ul>
                     </div>
                 </section>
@@ -92,18 +69,24 @@ Somos muy conscientes de la importancia que tiene el estar conectado al mundo. P
 								<div class="col-1-1">
                                     <div class="blog-card" id="pantallas">
                                         <div class="meta">
-                                        <div class="photo" style="background-image: url(./img/servicios/pantallas-rota.png)"></div>
+                                        <div class="photo" style="background-image: url(./img/servicios/iph.jpg)"></div>
                                         <ul class="details">
-                                            <li><a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a></li>
+                                            <li><a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a></li>
                                             
                                         </ul>
                                         </div>
                                         <div class="description">
-                                        <h1>Aplicación de protectores de pantalla</h1>
+                                        <h1>Servicios de reparaci&oacute;n </h1>
                                         <h2>Reparamos todas las marcas</h2>
-                                        <p> En 3D Informatik nos encargamos de reparar y reemplazar si fuera necesario la pantalla quebrada o dañada.</p>
+                                        <p> <i class="fa fa-angle-double-right"></i> Cambio de Pantallas<br>
+                                        <i class="fa fa-angle-double-right"></i> Cambio de Baterias<br>
+                                        <i class="fa fa-angle-double-right"></i> Conectores de Carga<br>
+                                        <i class="fa fa-angle-double-right"></i> M&oacute;viles Mojados<br>
+                                        <i class="fa fa-angle-double-right"></i> Fallas de Sistema<br>
+                                        <i class="fa fa-angle-double-right"></i> Protector de Pantalla de HydroGel
+                                        </p>
                                         <p class="read-more">
-                                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                         </p>
                                         </div>
                                     </div>
@@ -112,47 +95,29 @@ Somos muy conscientes de la importancia que tiene el estar conectado al mundo. P
                                 <div class="col-1-1">
                                     <div class="blog-card alt" id="camaras">
                                         <div class="meta">
-                                        <div class="photo" style="background-image: url(./img/servicios/camaras.png)"></div>
+                                        <div class="photo" style="background-image:  url(./img/servicios/baterias.png)"></div>
                                         <ul class="details">
-                                            <li><a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a></li>
-                                            
-                                        </ul>
-                                        </div>
-                                        <div class="description">
-                                        <h1>Reparación Smartphone y Tablet</h1>
-                                        <h2>Reparamos todas las marcas</h2>
-                                        <p>3D Informatik reparará tu Smartphone dañado de manera rápida y confiable. Podemos ayudarte con actualizaciones de software IOS, liberar espacio de almacenamiento, configurar cuentas, diagnosticas fallas de Wifi / Bluetooth y reemplazar tu pantalla dañada, entre otros.</p>
-                                        <p class="read-more">
-                                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
-                                        </p>
-                                        </div>
-                                    </div> 
-                                 </div>  
-                                 <div class="col-1-1">
-                                    <div class="blog-card" id="baterias">
-                                        <div class="meta">
-                                        <div class="photo" style="background-image: url(./img/servicios/baterias.png)"></div>
-                                        <ul class="details">
-                                            <li><a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a></li>
+                                            <li><a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a></li>
                                             
                                         </ul>
                                         </div>
                                         <div class="description">
                                         <h1>Micro soldadura, cambio de componentes</h1>
                                         <h2>Reparamos todas las marcas</h2>
-                                        <p>Es la técnica que se utiliza para conectar componentes metálicos de pequeño tamaño. Es necesaria una lente de ampliación para lograr una mayor precisión. Además, se requiere de un operador experto altamente capacitado que realice estas técnicas.</p>
+                                        <p>Es la t&eacute;cnica que se utiliza para conectar componentes met&aacute;licos de pequeño tamaño. Es necesaria una lente de ampliaci&oacute;n para lograr una mayor precisi&oacute;n. Adem&aacute;s, se requiere de un operador experto altamente capacitado que realice estas t&eacute;cnicas.</p>
                                         <p class="read-more">
-                                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                         </p>
                                         </div>
-                                    </div>
+                                    </div> 
                                  </div>  
+                                 
                                  <div class="col-1-1">
-                                    <div class="blog-card alt">
+                                    <div class="blog-card">
                                         <div class="meta">
                                         <div class="photo" style="background-image: url(./img/servicios/socalo.png)"></div>
                                         <ul class="details">
-                                            <li><a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a></li>
+                                            <li><a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a></li>
                                             
                                         </ul>
                                         </div>
@@ -161,7 +126,7 @@ Somos muy conscientes de la importancia que tiene el estar conectado al mundo. P
                                         <h2>Reparamos todas las marcas</h2>
                                         <p>Contamos con repuestos originales de las principales marcas del mercado.</p>
                                         <p class="read-more">
-                                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                         </p>
                                         </div>
                                     </div> 

@@ -82,7 +82,7 @@
     background-color: #5ad67d;
     text-align: center;
     font-size: 30px;
-    padding-top: 11%;
+    padding-top: 20px;
     height:70px;
     width: 70px;
     margin:  10px auto;
@@ -156,7 +156,19 @@
   }
 
   .detalle_ser .img-detall{
-    width: 80%;
+    width: 55%;
+    margin: auto;
+  }
+  .img-detall1 {
+    width: 91%;
+    margin: auto;
+  }
+  .img-detall2 {
+    width: 50%;
+    margin: auto;
+  }
+  .img-detallIn {
+    width: 70%;
     margin: auto;
   }
   .serv h1, .serv h2, .serv h3, .serv h4{
@@ -204,7 +216,6 @@
     letter-spacing: -0.25px;
     line-height: 1.25;
     font-size: 14px;
-    word-break: break-all;
     word-wrap: pre-wrap;
     color: #282828;
     -webkit-animation-name: p-show;
@@ -466,8 +477,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  transition: clip 0.7s ease-in-out, z-index 0s 0.7s;
-  clip: rect(0, 100vw, 100vh, 100vw);
+ 
   display: table;
 }
 .intro .center-y {
@@ -533,7 +543,7 @@
 
 
 
-/* moviles */
+/* m&oacute;viles */
 
 
 .blog-card {

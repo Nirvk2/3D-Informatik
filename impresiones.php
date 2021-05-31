@@ -33,19 +33,19 @@ $contacto="";
                 <section class="intro">
                     <div class="left">
                         <div>
-                        <span>Servicios</span>
-                        <h1>Nuestro Servicio de Impresión 3D</h1>
-                        <p>Facilitamos nuestra habilidad y experiencia para ofrecerte un servicio de modelado 3D y crear el archivo a partir de alguna idea que tengáis en mente, en un boceto o en un plano 2D. Convertimos tu idea en un modelo 3D.</p>
-                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+
+                        <h1>Nuestro Servicio de Impresi&oacute;n 3D</h1>
+                        <p>Facilitamos nuestra habilidad y experiencia para ofrecerte un servicio de modelado 3D y crear el archivo a partir de alguna idea que teng&aacute;is en mente, en un boceto o en un plano 2D. Convertimos tu idea en un modelo 3D.</p>
+                        <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                         </div>
                     </div>
 
                     <div class="slider">
                         <ul>
-                        <li style="background-image:url(./img/servicios/impresora.png)">
+                        <li style="background-image:url(videos/Video-Vase.gif)">
                             <div class="center-y">
-                            <h3>Impresión 3D</h3>
-                            <a href="#impresion">ver mas</a>	
+                            <h3></h3>
+                            	
                             </div>
                         </li>
                         <li style="background-image:url(./img/servicios/Merchandising.jpeg)">
@@ -103,17 +103,17 @@ $contacto="";
                                             <h2>Arquitectura</h2>
                                             <hr/>
                                             <p>
-                                            Obtenemos modelos tridimensionales de objetos físicos.
+                                            Obtenemos modelos tridimensionales de objetos f&iacute;sicos.
                                             </p>
                                         </div>
                                 </div>
                                 <div class="col-1-4">
                                         <div class="impre ser_width1">
                                         <a class="icon-idus"><i class="fa fa-graduation-cap"></i></a>
-                                            <h2>Educación</h2>
+                                            <h2>Educaci&oacute;n</h2>
                                             <hr/>
                                             <p>
-                                            Estudiantes de ingeniería  pueden ver sus proyectos materializados. 
+                                            Estudiantes de ingenier&iacute;a  pueden ver sus proyectos materializados. 
                                             </p>
                                         </div>
                                     
@@ -149,27 +149,27 @@ $contacto="";
                                 <div class="card col-1-1" id="impresion">
                                     <div class="row detalle_ser">
                                         <div class="col-1-2 f-right">
-                                            <img class="img-detall" src="./img/servicios/impresora.png" alt="">
+                                            <img class="img-detall1" src="./img/servicios/3d-printed-number-letter.jpg" alt="">
                                         </div>
                                         <div class="col-1-2 fond1">
                                             <div class="ser_width2 cont-detail">
                                                 <h2>Impresion 3D</h2>
                                                 <hr/>
                                                 <p>
-                                                La impresión 3D es un grupo de tecnologías de fabricación por adición capaz de crear un objeto tridimensional mediante la superposición de capas sucesivas de un determinado material. 
+                                                La Impresi&oacute;n 3D es un grupo de tecnolog&iacute;as de fabricaci&oacute;n por adici&oacute;n capaz de crear un objeto tridimensional mediante la superposici&oacute;n de capas sucesivas de un determinado material. 
                                                 </p>
                                                 <div class="cont_ser">
-                                                    <h5>Presupuesto rápido</h5>
+                                                    <h5>Presupuesto r&aacute;pido</h5>
                                                     <p>
-                                                    podéis enviar el archivo del diseño y valoramos costes y tiempo de impresión.
+                                                    pod&eacute;is enviar el archivo del diseño y valoramos costes y tiempo de Impresi&oacute;n.
                                                     </p>
-                                                    <h5>¿Qué puedo imprimir en 3D?</h5>
+                                                    <h5>¿Qu&eacute; puedo imprimir en 3D?</h5>
                                                     <p>
-                                                    Al entrar en el mundo 3D, más descubrimos objetivos y cosas que podemos crear, solo tenemos que poner nuestra imaginación en marcha.
+                                                    Al entrar en el mundo 3D, m&aacute;s descubrimos objetivos y cosas que podemos crear, solo tenemos que poner nuestra imaginaci&oacute;n en marcha.
                                                     </p>
 
                                                 </div>
-                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                             </div>
                                         </div>
                                         
@@ -180,7 +180,7 @@ $contacto="";
                                 <div class="card1 col-1-1" id="Merchandising">
                                     <div class="row detalle_ser">
                                         <div class="col-1-2">
-                                            <img class="img-detall" src="./img/servicios/Merchandising.jpeg" alt="">
+                                            <img class="img-detall2" src="./img/servicios/vaso 3d.jpg" alt="">
                                         </div>
                                         <div class="col-1-2 fond1">
                                             <div class="ser_width2 cont-detail">
@@ -191,17 +191,17 @@ $contacto="";
                                                 En 3D INFORMATIK creamos productos personalizados de su empresa para eventos y publicidad.
                                                 </p>
                                                 <div class="cont_ser">
-                                                    <h5>Presupuesto rápido</h5>
+                                                    <h5>Presupuesto r&aacute;pido</h5>
                                                     <p>
-                                                    Envía tus requerimientos para el diseño 3D y el material en que quieres hacerlo.
+                                                    Env&iacute;a tus requerimientos para el diseño 3D y el material en que quieres hacerlo.
                                                     </p>
-                                                    <h5>¿Qué podemos realizar?</h5>
+                                                    <h5>¿Qu&eacute; podemos realizar?</h5>
                                                     <p>
-                                                    Logos impresos, letras con slogan o para cualquier aplicación, llaveros personalizados corporativos, regalos originales para empleados, etc.
+                                                    Logos impresos, carteles luminosos, letras, llaveros personalizados, regalos, etc…
                                                     </p>
 
                                                 </div>
-                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                             </div>
                                         </div>
                                     </div>       
@@ -209,28 +209,28 @@ $contacto="";
                                 <div class="card col-1-1" id="diseño">
                                     <div class="row detalle_ser">
                                         <div class="col-1-2 f-right">
-                                            <img class="img-detall" src="./img/servicios/diseño.png" alt="">
+                                            <img class="img-detall" src="./img/servicios/3D.JPG" alt="">
                                         </div>
                                         <div class="col-1-2 fond1">
                                             <div class="ser_width2 cont-detail">
                                                 <h2>Diseño 3D</h2>
                                                 <hr/>
                                                 <p>
-                                                En 3D INFORMATIK creamos el archivo a partir de alguna idea que tengáis en mente, en un boceto o en un plano 2D.
+                                                En 3D INFORMATIK creamos el archivo a partir de alguna idea que teng&aacute;is en mente, en un boceto o en un plano 2D.
                                                 </p>
                                                 <div class="cont_ser">
-                                                    <h5>Respuesta rápido</h5>
+                                                    <h5>Respuesta r&aacute;pido</h5>
                                                     <p>
-                                                    Creamos tu Modelo 3D y le enviamos para su aceptación o modificación, en breve tendrás el diseño.
+                                                    Creamos tu Modelo 3D y le enviamos para su aceptaci&oacute;n o modificaci&oacute;n, en breve tendr&aacute;s el diseño.
                                                     </p>
                                                     <h5>Diseños 3D para sectores industriales</h5>
                                                     <p>
-                                                    Arte, Arquitectura, Publicidad, Educación, etc.
+                                                    Arte, Arquitectura, Publicidad, Educaci&oacute;n, etc.
                                                     </p>
 
                                                 </div>
 
-                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20información%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
+                                                <a class="button" href="https://api.whatsapp.com/send?phone=+51936441860&text=Hola%20necesito%20informaci&oacute;n%20de%20sus%20servicios"><i class="fa fa-whatsapp"></i>Consultar</a>
                                             </div>
                                         </div>
                                         

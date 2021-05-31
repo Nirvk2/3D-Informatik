@@ -29,12 +29,12 @@ $contacto="";
             ?>
 			<div id="owl-slide" class="owl-carousel">
 				<div class="item">
-                <img class="item-img" src="videos/Video-Vase.gif"/>
+                <img class="item-img" src="./img/banner/impresora3dban.jpg"/>
 					<!-- Static Header -->
 					<div class="header-text hidden-xs">
 						<div class="col-md-12 text-left">
-							<h1>Diseño e impresión 3d</h1>
-							<p>Tecnologia y calidad</p>
+							<h1>Diseño e Impresi&oacute;n 3d</h1>
+							<p>Tecnolog&iacute;a y calidad</p>
 							<a class="button" href="impresiones.php">EXPLORAR</a>
 						</div>
 					</div><!-- /header-text -->
@@ -45,18 +45,18 @@ $contacto="";
 					<div class="header-text hidden-xs">
 						<div class="col-md-12 text-left">
 							<h1>Configuramos tu ordenador</h1>
-							<p>Según vuestras necesidades</p>
+							<p>Seg&uacute;n vuestras necesidades</p>
 							<a class="button" href="informatica.php">EXPLORAR</a>
 						</div>
 					</div><!-- /header-text -->
 				</div>
 				<div class="item">
-					<img class="item-img" src="./img/banner/movil.jpg" />
+					<img class="item-img" src="./img/banner/repair-movil.jpg" />
 					<!-- Static Header -->
 					<div class="header-text hidden-xs">
 						<div class="col-md-12 text-left">
-							<h1>Reparaciones exprés</h1>
-							<p>Reparamos tu móvil hoy mismo, sin cita previa</p>
+							<h1>Reparaciones expr&eacute;s</h1>
+							<p>Reparamos tu m&oacute;vil hoy mismo, sin cita previa</p>
 							<a class="button" href="movil.php">EXPLORAR</a>
 						</div>
 					</div><!-- /header-text -->
@@ -89,7 +89,7 @@ $contacto="";
                                             <h2>Diseño 3D</h2>
                                             <hr/>
                                             <p>
-                                            Producimos tus piezas para impresión 3D.
+                                            Producimos tus piezas para Impresi&oacute;n 3D.
                                             </p>
                                             <img src="./img/icon/diseno-3d.png" alt="">
                                             <a class="button" href="impresiones.php">Leer mas</a>
@@ -98,7 +98,7 @@ $contacto="";
                                 
                                 <div class="col-1-4">
                                         <div class="serv ser_width1">
-                                            <h2>Impresión 3D</h2>
+                                            <h2>Impresi&oacute;n 3D</h2>
                                             <hr/>
                                             <p>
                                             Imprimimos tus proyectos en 3D.
@@ -109,10 +109,10 @@ $contacto="";
                                 </div>
                                 <div class="col-1-4">
                                         <div class="serv ser_width1">
-                                            <h2>Informática</h2>
+                                            <h2>Inform&aacute;tica</h2>
                                             <hr/>
                                             <p>
-                                            mantenimiento y configuración de ordenadores.
+                                            Reparaci&oacute;n y actualizaci&oacute;n de ordenadores.
                                             </p>
                                             <img src="./img/icon/ayuda.png" alt="">
                                             <a class="button" href="informatica.php">Leer mas</a>
@@ -120,10 +120,10 @@ $contacto="";
                                 </div>
                                 <div class="col-1-4">
                                         <div class="serv ser_width1">
-                                            <h2>Móviles</h2>
+                                            <h2>M&oacute;viles</h2>
                                             <hr/>
                                             <p>
-                                               Resparació de dispositivos móviles. 
+                                               Resparaci&oacute;n de dispositivos m&oacute;viles. 
                                             </p>
                                             <img src="./img/icon/telefono.png" alt="">
                                             
@@ -140,7 +140,7 @@ $contacto="";
 					<div class="zerogrid">
 						<div class="wrap-box"><!--Start Box-->
 							<div class="box-header">
-								<h2>Proceso Impresión 3D Online</h2>
+								<h2>Proceso Impresi&oacute;n 3D Online</h2>
 							</div>
 							
 						</div>
@@ -159,8 +159,8 @@ $contacto="";
                                             <div class="col-1-2">
                                                 <div class="entry-content t-center">
                                                     <h3>Paso 1</h3>
-                                                    <p>Sube tu modelo 3D en formato STL, OBJ, STP </p>
-                                                    <a class="button" href="single.html"><i class="fa fa-whatsapp"></i> Consultar</a>
+                                                    <p>Env&iacute;a tu modelo 3D en formato STL, OBJ, STP. </p>
+                                                    
                                                 </div>
                                             </div>
                                     </div>  
@@ -173,8 +173,8 @@ $contacto="";
                                             <div class="col-1-2">
                                                 <div class="entry-content t-center">
                                                     <h3>Paso 2</h3>
-                                                    <p>No tenéis al archivo entonces creamos tu Modelo 3D</p>
-                                                    <a class="button" href="single.html">Read More</a>
+                                                    <p>No ten&eacute;is el archivo entonces creamos tu Modelo 3D.</p>
+                                                    
                                                 </div>
                                             </div>
                                     </div>  
@@ -189,8 +189,8 @@ $contacto="";
                                             <div class="col-1-2">
                                                 <div class="entry-content t-center">
                                                     <h3>Paso 3</h3>
-                                                    <p>Imprimimos tu modelo 3D con las especificaciones que nos marcas</p>
-                                                    <a class="button" href="single.html"><i class="fa fa-whatsapp"></i> Consultar</a>
+                                                    <p>Imprimimos tu modelo 3D con las especificaciones.</p>
+                                                   
                                                 </div>
                                             </div>
                                         
@@ -204,8 +204,8 @@ $contacto="";
                                             <div class="col-1-2">
                                                 <div class="entry-content t-center">
                                                     <h3>Paso 4</h3>
-                                                    <p>Empaquetamos y lo enviamos y lo recibes donde tu quieras</p>
-                                                    <a class="button" href="single.html">Read More</a>
+                                                    <p>Te lo env&iacute;amos a cualquier parte de España.</p>
+                                                    
                                                 </div>
                                             </div>
                                     </div>  

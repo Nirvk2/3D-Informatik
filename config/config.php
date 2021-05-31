@@ -1,3 +1,3 @@
 <?php
-const SERVERURL="http://localhost:8888/3d_informatik/";
+const SERVERURL="http://localhost:8080/3d_informatik/";
 ?>
